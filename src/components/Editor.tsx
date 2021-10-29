@@ -25,6 +25,7 @@ export function Editor() {
       rounded="md"
       justifyContent="space-between"
       my="10"
+      flex={1}
     >
       <FormControl>
         <FormLabel>Formula</FormLabel>
