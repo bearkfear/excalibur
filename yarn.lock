@@ -761,13 +761,13 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@formulajs/formulajs@2.9.1":
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/@formulajs/formulajs/-/formulajs-2.9.1.tgz#4ad2ae107e662e8ea9134753a7dd3711a187e410"
-  integrity sha512-3FN/o4QCzZ1vHSEgJv3PJU1gUC2DfcCOYQAGQ5YPpX+FRIPxL+OGGE9M58y5BsFIilsWYk0is3X1O3baNtbbwA==
+"@formulajs/formulajs@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@formulajs/formulajs/-/formulajs-3.1.1.tgz#b1e9c359e65978eb080288193cc7b09f8c08e93b"
+  integrity sha512-0JJM4q5nEE1+hOdN+08Pfz9C/Z88hbwLfRcmDWQog9AoSm11FDkq17PJzpklVidmjCajAJzFmuGIMz/lWnojsA==
   dependencies:
     bessel "^1.0.2"
-    jstat "^1.9.2"
+    jstat "^1.9.5"
 
 "@hapi/accept@5.0.2":
   version "5.0.2"
@@ -2672,7 +2672,7 @@ json5@^1.0.1:
   dependencies:
     minimist "^1.2.0"
 
-jstat@^1.9.2:
+jstat@^1.9.5:
   version "1.9.5"
   resolved "https://registry.yarnpkg.com/jstat/-/jstat-1.9.5.tgz#9941741566f683624ddeb56f5ba60ed8c29b374e"
   integrity sha512-cWnp4vObF5GmB2XsIEzxI/1ZTcYlcfNqxQ/9Fp5KFUa0Jf/4tO0ZkGVnqoEHDisJvYgvn5n3eWZbd2xTVJJPUQ==
